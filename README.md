@@ -10,7 +10,7 @@
 
 - 🎯 Passionate about:
   - Frontend magic with **Next.js**, **React**, **Tailwind**, and **Vite**
-  - Backend design using **Node.js**, **Express**
+  - Backend design using **Node.js**, **Express**, **Python**
   - Algorithmic problem-solving (C++ + DSA)
 ---
 
