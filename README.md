@@ -9,7 +9,7 @@
 - 🔭 Currently learning and building projects in **Machine Learning** and **Artificial Intelligence**
 - 💡 Interested in combining **AI + Web Development** to create smart and interactive applications
 - 🎯 Passionate about:
-  - Frontend magic with **Next.js**, **React**, **Tailwind**, **Vite**, and **GSAP**
+  - Frontend magic with **Next.js**, **React**, **Tailwind**, **Vite**
   - Backend development using **Node.js**, **Express.js**, and **Python**
   - Machine Learning with **Python**, exploring models, data processing, and AI concepts
   - Algorithmic problem-solving using **C++** and **DSA**
